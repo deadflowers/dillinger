@@ -1,2 +1,0 @@
-# dillinger
-md editor
